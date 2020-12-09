@@ -1,2 +1,1 @@
-My bibiliography file
-
+My BibTex bibiliography file
